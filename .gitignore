@@ -6,6 +6,13 @@ __pycache__/
 # C extensions
 *.so
 
+#Esto lo he puesto yo
+**/.idea/
+**/out/
+.idea/
+out/
+*.iml
+
 # Distribution / packaging
 .Python
 build/
