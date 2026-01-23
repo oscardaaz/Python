@@ -9,8 +9,6 @@ def letrasInvertidas(palabra):
 
     for i in reversed(palabra):
         print(i)
-    # for i in enumerate(palabra):
-    #     print(i)
 
 def main():
     palabra = input("Introduce una palabra: ")
